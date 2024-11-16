@@ -3,28 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\joaom\\source\\repos\\Finance-System\\Financeiro_2023\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{176E936F-82EC-439D-A5F5-01D867F5FF5A}|Entities\\Entities.csproj|c:\\users\\joaom\\source\\repos\\finance-system\\financeiro_2023\\entities\\entidades\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{176E936F-82EC-439D-A5F5-01D867F5FF5A}|Entities\\Entities.csproj|solutionrelative:entities\\entidades\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2CE49F74-D6E7-4E9B-97BE-A1239C29F1E6}|Infra\\Infra.csproj|c:\\users\\joaom\\source\\repos\\finance-system\\financeiro_2023\\infra\\configuracao\\contextbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CE49F74-D6E7-4E9B-97BE-A1239C29F1E6}|Infra\\Infra.csproj|solutionrelative:infra\\configuracao\\contextbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{176E936F-82EC-439D-A5F5-01D867F5FF5A}|Entities\\Entities.csproj|c:\\users\\joaom\\source\\repos\\finance-system\\financeiro_2023\\entities\\entidades\\despesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{176E936F-82EC-439D-A5F5-01D867F5FF5A}|Entities\\Entities.csproj|solutionrelative:entities\\entidades\\despesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{176E936F-82EC-439D-A5F5-01D867F5FF5A}|Entities\\Entities.csproj|c:\\users\\joaom\\source\\repos\\finance-system\\financeiro_2023\\entities\\enums\\enumtipodespesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{176E936F-82EC-439D-A5F5-01D867F5FF5A}|Entities\\Entities.csproj|solutionrelative:entities\\enums\\enumtipodespesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{176E936F-82EC-439D-A5F5-01D867F5FF5A}|Entities\\Entities.csproj|c:\\users\\joaom\\source\\repos\\finance-system\\financeiro_2023\\entities\\entidades\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{176E936F-82EC-439D-A5F5-01D867F5FF5A}|Entities\\Entities.csproj|solutionrelative:entities\\entidades\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{176E936F-82EC-439D-A5F5-01D867F5FF5A}|Entities\\Entities.csproj|c:\\users\\joaom\\source\\repos\\finance-system\\financeiro_2023\\entities\\entidades\\usuariosistemafinanceiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{176E936F-82EC-439D-A5F5-01D867F5FF5A}|Entities\\Entities.csproj|solutionrelative:entities\\entidades\\usuariosistemafinanceiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{176E936F-82EC-439D-A5F5-01D867F5FF5A}|Entities\\Entities.csproj|c:\\users\\joaom\\source\\repos\\finance-system\\financeiro_2023\\entities\\entidades\\sistemafinanceiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{176E936F-82EC-439D-A5F5-01D867F5FF5A}|Entities\\Entities.csproj|solutionrelative:entities\\entidades\\sistemafinanceiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7B1A53AC-5600-45F5-A9E2-092CD99281F5}|Domain\\Domain.csproj|c:\\users\\joaom\\source\\repos\\finance-system\\financeiro_2023\\domain\\interfaces\\iservicos\\idespesaservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B1A53AC-5600-45F5-A9E2-092CD99281F5}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\iservicos\\idespesaservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,89 +18,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EnumTipoDespesa.cs",
-              "DocumentMoniker": "C:\\Users\\joaom\\source\\repos\\Finance-System\\Financeiro_2023\\Entities\\Enums\\EnumTipoDespesa.cs",
-              "RelativeDocumentMoniker": "Entities\\Enums\\EnumTipoDespesa.cs",
-              "ToolTip": "C:\\Users\\joaom\\source\\repos\\Finance-System\\Financeiro_2023\\Entities\\Enums\\EnumTipoDespesa.cs",
-              "RelativeToolTip": "Entities\\Enums\\EnumTipoDespesa.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ContextBase.cs",
+              "DocumentMoniker": "C:\\Users\\joaom\\source\\repos\\Finance-System\\Financeiro_2023\\Infra\\Configuracao\\ContextBase.cs",
+              "RelativeDocumentMoniker": "Infra\\Configuracao\\ContextBase.cs",
+              "ToolTip": "C:\\Users\\joaom\\source\\repos\\Finance-System\\Financeiro_2023\\Infra\\Configuracao\\ContextBase.cs",
+              "RelativeToolTip": "Infra\\Configuracao\\ContextBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T22:09:21.791Z",
+              "WhenOpened": "2024-11-16T22:38:28.928Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Despesa.cs",
-              "DocumentMoniker": "C:\\Users\\joaom\\source\\repos\\Finance-System\\Financeiro_2023\\Entities\\Entidades\\Despesa.cs",
-              "RelativeDocumentMoniker": "Entities\\Entidades\\Despesa.cs",
-              "ToolTip": "C:\\Users\\joaom\\source\\repos\\Finance-System\\Financeiro_2023\\Entities\\Entidades\\Despesa.cs",
-              "RelativeToolTip": "Entities\\Entidades\\Despesa.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA0AAAAAAAAAA==",
+              "Title": "IDespesaServico.cs",
+              "DocumentMoniker": "C:\\Users\\joaom\\source\\repos\\Finance-System\\Financeiro_2023\\Domain\\Interfaces\\IServicos\\IDespesaServico.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IServicos\\IDespesaServico.cs",
+              "ToolTip": "C:\\Users\\joaom\\source\\repos\\Finance-System\\Financeiro_2023\\Domain\\Interfaces\\IServicos\\IDespesaServico.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IServicos\\IDespesaServico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T22:06:48.867Z",
+              "WhenOpened": "2024-11-16T22:37:25.193Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Categoria.cs",
-              "DocumentMoniker": "C:\\Users\\joaom\\source\\repos\\Finance-System\\Financeiro_2023\\Entities\\Entidades\\Categoria.cs",
-              "RelativeDocumentMoniker": "Entities\\Entidades\\Categoria.cs",
-              "ToolTip": "C:\\Users\\joaom\\source\\repos\\Finance-System\\Financeiro_2023\\Entities\\Entidades\\Categoria.cs",
-              "RelativeToolTip": "Entities\\Entidades\\Categoria.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T22:02:55.962Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UsuarioSistemaFinanceiro.cs",
-              "DocumentMoniker": "C:\\Users\\joaom\\source\\repos\\Finance-System\\Financeiro_2023\\Entities\\Entidades\\UsuarioSistemaFinanceiro.cs",
-              "RelativeDocumentMoniker": "Entities\\Entidades\\UsuarioSistemaFinanceiro.cs",
-              "ToolTip": "C:\\Users\\joaom\\source\\repos\\Finance-System\\Financeiro_2023\\Entities\\Entidades\\UsuarioSistemaFinanceiro.cs",
-              "RelativeToolTip": "Entities\\Entidades\\UsuarioSistemaFinanceiro.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T21:58:52.306Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SistemaFinanceiro.cs",
-              "DocumentMoniker": "C:\\Users\\joaom\\source\\repos\\Finance-System\\Financeiro_2023\\Entities\\Entidades\\SistemaFinanceiro.cs",
-              "RelativeDocumentMoniker": "Entities\\Entidades\\SistemaFinanceiro.cs",
-              "ToolTip": "C:\\Users\\joaom\\source\\repos\\Finance-System\\Financeiro_2023\\Entities\\Entidades\\SistemaFinanceiro.cs",
-              "RelativeToolTip": "Entities\\Entidades\\SistemaFinanceiro.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T21:53:35.294Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Base.cs",
-              "DocumentMoniker": "C:\\Users\\joaom\\source\\repos\\Finance-System\\Financeiro_2023\\Entities\\Entidades\\Base.cs",
-              "RelativeDocumentMoniker": "Entities\\Entidades\\Base.cs",
-              "ToolTip": "C:\\Users\\joaom\\source\\repos\\Finance-System\\Financeiro_2023\\Entities\\Entidades\\Base.cs",
-              "RelativeToolTip": "Entities\\Entidades\\Base.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T21:51:13.817Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }
