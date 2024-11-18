@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\joaom\\source\\repos\\Finance-System\\Financeiro_2023\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7B1A53AC-5600-45F5-A9E2-092CD99281F5}|Domain\\Domain.csproj|c:\\users\\joaom\\source\\repos\\finance-system\\financeiro_2023\\domain\\interfaces\\iservicos\\idespesaservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B1A53AC-5600-45F5-A9E2-092CD99281F5}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\iservicos\\idespesaservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{853E0748-DFE4-48EE-B52F-3B312CCAEDC5}|WebApi\\WebApi.csproj|c:\\users\\joaom\\source\\repos\\finance-system\\financeiro_2023\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{853E0748-DFE4-48EE-B52F-3B312CCAEDC5}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CE49F74-D6E7-4E9B-97BE-A1239C29F1E6}|Infra\\Infra.csproj|c:\\users\\joaom\\source\\repos\\finance-system\\financeiro_2023\\infra\\repositorio\\generics\\repositorygenerics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CE49F74-D6E7-4E9B-97BE-A1239C29F1E6}|Infra\\Infra.csproj|solutionrelative:infra\\repositorio\\generics\\repositorygenerics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,14 +27,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "IDespesaServico.cs",
-              "DocumentMoniker": "C:\\Users\\joaom\\source\\repos\\Finance-System\\Financeiro_2023\\Domain\\Interfaces\\IServicos\\IDespesaServico.cs",
-              "RelativeDocumentMoniker": "Domain\\Interfaces\\IServicos\\IDespesaServico.cs",
-              "ToolTip": "C:\\Users\\joaom\\source\\repos\\Finance-System\\Financeiro_2023\\Domain\\Interfaces\\IServicos\\IDespesaServico.cs",
-              "RelativeToolTip": "Domain\\Interfaces\\IServicos\\IDespesaServico.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\joaom\\source\\repos\\Finance-System\\Financeiro_2023\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\joaom\\source\\repos\\Finance-System\\Financeiro_2023\\WebApi\\Program.cs",
+              "RelativeToolTip": "WebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T22:37:25.193Z",
+              "WhenOpened": "2024-11-18T22:03:20.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RepositoryGenerics.cs",
+              "DocumentMoniker": "C:\\Users\\joaom\\source\\repos\\Finance-System\\Financeiro_2023\\Infra\\Repositorio\\Generics\\RepositoryGenerics.cs",
+              "RelativeDocumentMoniker": "Infra\\Repositorio\\Generics\\RepositoryGenerics.cs",
+              "ToolTip": "C:\\Users\\joaom\\source\\repos\\Finance-System\\Financeiro_2023\\Infra\\Repositorio\\Generics\\RepositoryGenerics.cs",
+              "RelativeToolTip": "Infra\\Repositorio\\Generics\\RepositoryGenerics.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T21:26:52.955Z",
               "EditorCaption": ""
             }
           ]

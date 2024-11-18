@@ -20,6 +20,15 @@ namespace Infra.Configuracao
         public DbSet<Categoria> Categoria { get; set; }
         public DbSet<Despesa> Despesa { get; set; }
 
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        {
+            if(!optionsBuilder.IsConfigured)
+            {
+                optionsBuilder.UseSqlServer(ObterStringConexao());
+                base.OnConfiguring(optionsBuilder);
+            }
+        }
+
         protected override void OnModelCreating (ModelBuilder Builder)
         {
             Builder.Entity<ApplicationUser>().ToTable("AspNetUsers").HasKey(t => t.Id);
@@ -27,9 +36,9 @@ namespace Infra.Configuracao
             base.OnModelCreating(Builder);
         }
 
-        //public string ObterStringConexao()
-        //{
-
-        //}
+        public string ObterStringConexao()
+        {
+            return "Data Source=DESKTOP-R0C51AN;Initial Catalog=master;Integrated Security=True;Trust Server Certificate=True";
+        }
     }
 }

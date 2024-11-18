@@ -10,3 +10,4 @@ C:\Users\joaom\source\repos\Finance-System\Financeiro_2023\Domain\obj\Debug\net8
 C:\Users\joaom\source\repos\Finance-System\Financeiro_2023\Domain\obj\Debug\net8.0\refint\Domain.dll
 C:\Users\joaom\source\repos\Finance-System\Financeiro_2023\Domain\obj\Debug\net8.0\Domain.pdb
 C:\Users\joaom\source\repos\Finance-System\Financeiro_2023\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\joaom\source\repos\Finance-System\Financeiro_2023\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
